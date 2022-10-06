@@ -10,6 +10,7 @@
 >>socket.io\
 >>knex\
 >>yargs\
+>>dotenv\
 >>sqlite3
 ## Levantar npm
 >> npm start
